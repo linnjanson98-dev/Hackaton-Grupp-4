@@ -1,0 +1,20 @@
+h1{
+    width: 200px;
+    margin:auto;
+}
+
+img{
+    display:block;
+    border-radius: 50%;
+    width: 200px;
+    margin:auto;
+}
+ol{
+    width: 300px;
+    margin:auto;
+}
+a{
+    display:block;
+    width: 200px;
+    margin-left: 900px;
+}
