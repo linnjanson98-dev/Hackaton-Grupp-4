@@ -1,5 +1,13 @@
+*{
+    font-family: Playfair Display, serif;
+}
+main{
+    width: 80%;
+    margin:0 auto;
+}
+
 h1{
-    width: 200px;
+    text-align:center;
     margin:auto;
 }
 
