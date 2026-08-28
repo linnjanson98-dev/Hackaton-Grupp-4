@@ -1,0 +1,40 @@
+*{
+	font-family: Arial, sans-serif;
+}
+body {
+	background: beige;
+	color: black;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+	font-size: 40px;
+}
+
+main {
+	width: 80%;
+	margin: 0 auto;
+}
+
+ul {
+	width: fit-content;
+	margin: 0 auto;
+
+}
+
+img {
+	width: 300px;
+	display: block;
+	margin: auto;
+	border-radius: 15px;
+	padding-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: brown;
+  display: block;
+}
+
